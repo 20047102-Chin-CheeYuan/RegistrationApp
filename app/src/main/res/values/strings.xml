@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="registration">Registration</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="student_id">Student ID:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender:</string>
+    <string name="school">School:</string>
+    <string name="email">Email:</string>
+    <string name="register">Register</string>
+    <string name="phone">Phone:</string>
+    <string name="type_first_name_here">Type first name here!</string>
+    <string name="enter_your_student_id">Enter your Student ID!</string>
+    <string name="enter_your_phone_no">Enter your phone NO.</string>
+    <string name="enter_your_email">Enter your email!</string>
+    <string name="enter_school_s_name_here">Enter school\'s name here!</string>
+    <string name="enter_last_name_here">Enter last name here!</string>
+</resources>
